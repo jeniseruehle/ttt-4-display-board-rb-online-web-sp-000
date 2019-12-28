@@ -69,5 +69,5 @@ end
   puts "-----------"
   puts "   | #{board[4]} |   "
   puts "-----------"
-  puts "   |   |   "
+  puts " #{board[6]} |   |   "
 end  
