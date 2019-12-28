@@ -71,3 +71,4 @@ end
   puts "-----------"
   puts " #{board[6]} |   |   "
 end  
+
