@@ -72,3 +72,4 @@ end
   puts " #{board[6]} |   |   "
 end  
 
+board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
