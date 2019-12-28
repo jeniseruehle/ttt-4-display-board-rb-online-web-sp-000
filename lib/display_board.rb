@@ -45,3 +45,4 @@ def display_board(board)
   puts "   |   |   "
 end 
 
+board = [" ", " ", " ", " ", " ", " ", "O", "O", "O"]
